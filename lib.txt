@@ -1,0 +1,4 @@
+gensim,
+tensorflow,
+streamlit,
+spacy
